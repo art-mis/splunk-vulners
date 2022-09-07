@@ -1,11 +1,5 @@
 @placement search-head
 
-[REPORT-vulners]
+[REPORT-vulners_packages]
 DELIMS = 
-FIELDS = 
-
-[vulnerslook]
-allow_caching = 
-case_sensitive_match = 
-external_cmd = 
-fields_list = 
+FIELDS =

@@ -1,6 +1,6 @@
 []
 access = read : [ * ], write : [ admin, power ]
-export = none
+export = system
 
 [tags]
 export = system
@@ -15,7 +15,13 @@ export = system
 export = system
 
 [searchscripts]
-export = system 
+export = system
+
+[commands]
+export = system
+
+[passwords]
+export = system
 
 [viewstates]
 access = read : [ * ], write : [ * ]

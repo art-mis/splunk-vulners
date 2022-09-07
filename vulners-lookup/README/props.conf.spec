@@ -1,3 +1,3 @@
 @placement forwarder
 [vulnersData]
-REPORT-vulners =
+REPORT-vulners_packages =
